@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\bin\Debug\net8.0-windows\youtube thumbnail downloader.exe
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\bin\Debug\net8.0-windows\youtube thumbnail downloader.deps.json
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\bin\Debug\net8.0-windows\youtube thumbnail downloader.runtimeconfig.json
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\bin\Debug\net8.0-windows\youtube thumbnail downloader.dll
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\bin\Debug\net8.0-windows\youtube thumbnail downloader.pdb
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\youtube_thumbnail_downloader.Form1.resources
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\youtube_thumbnail_downloader.Properties.Resources.resources
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\youtube thumbnail downloader.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\youtube thumbnail downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\youtube thumbnail downloader.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\youtube thumbnail downloader.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\youtube thumbnail downloader.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\youtube thumbnail downloader.dll
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\refint\youtube thumbnail downloader.dll
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\youtube thumbnail downloader.pdb
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\youtube thumbnail downloader.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ytb download\youtube thumbnail downloader\youtube thumbnail downloader\obj\Debug\net8.0-windows\ref\youtube thumbnail downloader.dll
