@@ -2,6 +2,8 @@
 
 This simple Windows Forms application allows users to download thumbnails from YouTube videos by providing the video URL.
 
+![screen, ytb](https://github.com/sepremz/Youtube-Thumbnail-Downloader/assets/72527110/11cb9586-d9e6-4bc0-a2c9-2304dddde4ef) 
+
 ## Features
 
 - Download YouTube video thumbnails at maximum resolution.
